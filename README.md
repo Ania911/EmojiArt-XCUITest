@@ -1,1 +1,1 @@
-# EmojiArt-XCUITest-
+# EmojiArt-XCUITest
